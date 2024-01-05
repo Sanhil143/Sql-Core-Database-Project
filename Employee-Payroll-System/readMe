@@ -10,30 +10,30 @@ Basic Functionalities
 • Record and monitor employee attendance, leaves, and absences for accurate payroll calculation.
 
 
-###List of Entities:
-##Employee
+List of Entities:
+• Employee
 Table that includes all personal details and overall information of an employee.
 
-##Salary
+• Salary
 Table covering current and previous salaries, facilitating analysis of salary changes. Helps in tracking promotions and salary grade changes.
 
-##Department
+• Department
 Table maintaining data on different departments an employee can belong to.
 
-##Account Details
+• Account Details
 Table containing information regarding accounts linked to the employee for salary crediting.
 
-##Attendance
+• Attendance
 Table including data of employees' attendance, tracking the number of hours worked in a week.
 
-##Project
+• Project
 Table containing data on all projects a company is currently working on or planning to work on in the future.
 
-##Education
+• Education
 Table keeping track of an employee's education, including degrees achieved.
 
-##Work Location
+• Work Location
 Table including information on office locations, including city and state, and tracking the number of employees in a specific location.
 
-##Leave
+• Leave
 Table keeping records of the number of leaves an employee takes over a specific period.
