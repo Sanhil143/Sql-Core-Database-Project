@@ -1,5 +1,15 @@
 #Employee Payroll System by Sanhil❤️
 
+This project aims to design a system to manage and calculate company employee salaries, monthly pay, taxes, and social security contributions.
+
+Basic Functionalities
+• Store and manage basic employee details like name, department, and position.
+• Salaries are added in this project with the help of workers' data, attendance records, and leave taken.
+• Calculate and distribute employee salaries, taking into account factors like hours worked, tax deductions  
+• Add new payroll, ref from, view edit, delete, show entries,and search.
+• Record and monitor employee attendance, leaves, and absences for accurate payroll calculation.
+
+
 ###List of Entities:
 ##Employee
 Table that includes all personal details and overall information of an employee.
