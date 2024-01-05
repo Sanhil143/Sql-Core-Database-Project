@@ -1,0 +1,29 @@
+#Employee Payroll System by Sanhil❤️
+
+###List of Entities:
+##Employee
+Table that includes all personal details and overall information of an employee.
+
+##Salary
+Table covering current and previous salaries, facilitating analysis of salary changes. Helps in tracking promotions and salary grade changes.
+
+##Department
+Table maintaining data on different departments an employee can belong to.
+
+##Account Details
+Table containing information regarding accounts linked to the employee for salary crediting.
+
+##Attendance
+Table including data of employees' attendance, tracking the number of hours worked in a week.
+
+##Project
+Table containing data on all projects a company is currently working on or planning to work on in the future.
+
+##Education
+Table keeping track of an employee's education, including degrees achieved.
+
+##Work Location
+Table including information on office locations, including city and state, and tracking the number of employees in a specific location.
+
+##Leave
+Table keeping records of the number of leaves an employee takes over a specific period.
