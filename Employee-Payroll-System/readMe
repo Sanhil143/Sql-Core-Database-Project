@@ -1,29 +1,39 @@
-Employee Payroll System by Sanhil❤️
+#Employee Payroll System by Sanhil❤️
+
+This project aims to design a system to manage and calculate company employee salaries, monthly pay, taxes, and social security contributions.
+
+Basic Functionalities
+• Store and manage basic employee details like name, department, and position.
+• Salaries are added in this project with the help of workers' data, attendance records, and leave taken.
+• Calculate and distribute employee salaries, taking into account factors like hours worked, tax deductions  
+• Add new payroll, ref from, view edit, delete, show entries,and search.
+• Record and monitor employee attendance, leaves, and absences for accurate payroll calculation.
+
 
 List of Entities:
-Employee
+• Employee
 Table that includes all personal details and overall information of an employee.
 
-Salary
+• Salary
 Table covering current and previous salaries, facilitating analysis of salary changes. Helps in tracking promotions and salary grade changes.
 
-Department
+• Department
 Table maintaining data on different departments an employee can belong to.
 
-Account Details
+• Account Details
 Table containing information regarding accounts linked to the employee for salary crediting.
 
-Attendance
+• Attendance
 Table including data of employees' attendance, tracking the number of hours worked in a week.
 
-Project
+• Project
 Table containing data on all projects a company is currently working on or planning to work on in the future.
 
-Education
+• Education
 Table keeping track of an employee's education, including degrees achieved.
 
-Work Location
+• Work Location
 Table including information on office locations, including city and state, and tracking the number of employees in a specific location.
 
-Leave
+• Leave
 Table keeping records of the number of leaves an employee takes over a specific period.
